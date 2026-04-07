@@ -1,1 +1,11 @@
-./config.json
+# Dependencies
+node_modules/
+
+# Local Config & Secrets
+config.json
+
+# Cache Files
+sports_cache.json
+
+# Logs
+npm-debug.log*
